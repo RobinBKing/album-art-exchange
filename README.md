@@ -1,11 +1,11 @@
-# Project Template
+# Project Album Art Exchange
 
-#### a program that is a template for starting new projects
+#### a program that is an exercise in using flexbox.
 
 ### By Rob King
 
 ## Description
-This application is actually just a template that is used for starting new projects. Included is are the folders CSS, js, spec and img. with a stiles.css in the CSS folder, a scripts.ja and a jQuery.js files in the js folder and all the needed files for using Mocha and Chai for testing, and a .pairs file for pair Git activities.
+This application is a demonstration of the use of flexbox for css. Included is are the folders CSS and img. 
 
 ## setup
 The application can be installed by cloning the project from GitHub.
