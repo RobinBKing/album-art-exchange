@@ -43,6 +43,7 @@ body {
 .thumbnails img {
   width: 150px;
   height: 150px;
+  padding: .2em;
 }
 
 .side-nav1, .side-nav2 {
